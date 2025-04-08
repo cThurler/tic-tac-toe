@@ -93,3 +93,4 @@ public class mainprogram {
 		
 	}
 }
+//things to do: adicionar interface grafica / analisar lógica e variaveis para otimização / refatorar em componentes ou orientado a objetos

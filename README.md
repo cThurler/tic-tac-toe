@@ -1,2 +1,2 @@
 # tic-tac-toe
-old code
+Código antigo mas com funcionalidades que serão atualizadas/adicionadas em breve para manter práticas vivas.
